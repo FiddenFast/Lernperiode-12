@@ -1,13 +1,10 @@
 # Lernperiode-12
 
-## Grobplanung
-
-31.10.25
-- [ ] Hosting Probleme lösen
-- [ ] Github aufräumen Profil verbessern usw.
 
 07.11.25
-
+- [ ] Hosting Probleme lösen
+- [ ] Hosting stabilisieren und alte Deploys entfernen
+- [ ] Github aufräumen Profil verbessern usw.
 
 14.11.25
 
